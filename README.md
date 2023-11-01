@@ -10,21 +10,21 @@
 
 +  Sales team request :
   
-- What are the busiest days of the week and hours of the day ?
-- Are there particular times of the day when people spend the most money ?
+1. What are the busiest days of the week and hours of the day ?
+1. Are there particular times of the day when people spend the most money ?
 
 _Objectif :  Schedule ads at times when there are fewer orders. Inform the type of products they advertise at these times._
 
 
 + Marketing and sales request :
   
--  Are there certain types of products that are more popular than others?
--  What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
-- Are there differences in ordering habits based on a customer’s loyalty status?
-- Are there differences in ordering habits based on a customer’s region?
-- Is there a connection between age and family status in terms of ordering habits?
-- What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
-- What differences can you find in ordering habits of different customer profiles?
+1.  Are there certain types of products that are more popular than others?
+1.  What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+1. Are there differences in ordering habits based on a customer’s loyalty status?
+1. Are there differences in ordering habits based on a customer’s region?
+1. Is there a connection between age and family status in terms of ordering habits?
+1. What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+1. What differences can you find in ordering habits of different customer profiles?
 
 _Objectif : Get to know which departments have the highest frequency of product orders. Analyse the different types of customers in their system and how their ordering behaviors differ._ 
 
