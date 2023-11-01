@@ -1,6 +1,6 @@
 # CF_INSTACART_Grocery Basket Analysis
 
-**Introcution**
+**Introduction**
 
 > Instacart is an online grocery store that operates through an app. For this fictional project, Instacart want to uncover more information about their sales patterns. Hence, my core mission was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
