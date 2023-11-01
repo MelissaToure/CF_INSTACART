@@ -9,15 +9,25 @@
 
 +  Sales team request :
   
-> What are the busiest days of the week and hours of the day ? // OBJ : Schedule ads at times when there are fewer orders.
+> What are the busiest days of the week and hours of the day ?
+> Objectif : Schedule ads at times when there are fewer orders.
 
-> Are there particular times of the day when people spend the most money ? // OBJ :  Inform the type of products they advertise at these times.
+> Are there particular times of the day when people spend the most money ?
+> Objectif : Inform the type of products they advertise at these times.
+
 
 + Marketing and sales request :
   
-> Are there certain types of products that are more popular than others? // OBJ : Get to know which departments have the highest frequency of product orders.
+> Are there certain types of products that are more popular than others?
+>  Objectif : Get to know which departments have the highest frequency of product orders.
 
-> What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)? Are there differences in ordering habits based on a customer’s loyalty status? Are there differences in ordering habits based on a customer’s region? Is there a connection between age and family status in terms of ordering habits? What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status? What differences can you find in ordering habits of different customer profiles? // OBJ : Analyse the different types of customers in their system and how their ordering behaviors differ. 
+> What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+> Are there differences in ordering habits based on a customer’s loyalty status?
+> Are there differences in ordering habits based on a customer’s region?
+> Is there a connection between age and family status in terms of ordering habits?
+> What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+> What differences can you find in ordering habits of different customer profiles?
+> Objectif : Analyse the different types of customers in their system and how their ordering behaviors differ. 
 
 **Project Deliverables**
 
