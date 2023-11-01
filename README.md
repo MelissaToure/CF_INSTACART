@@ -3,16 +3,19 @@
 **Introcution**
 
 > Instacart is an online grocery store that operates through an app. For this fictional project, Instacart want to uncover more information about their sales patterns. Hence, my core mission was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+
 > Please note that, even though, Instacart is a real company, this project is purely fictional and based on open-source data from the company website. 
 
-**Business / Key Questions**
+**Business questions**
 
 +  Sales team request :
   
 > What are the busiest days of the week and hours of the day ?
+
 > Objectif : Schedule ads at times when there are fewer orders.
 
 > Are there particular times of the day when people spend the most money ?
+
 > Objectif : Inform the type of products they advertise at these times.
 
 
@@ -27,6 +30,7 @@
 > Is there a connection between age and family status in terms of ordering habits?
 > What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 > What differences can you find in ordering habits of different customer profiles?
+
 > Objectif : Analyse the different types of customers in their system and how their ordering behaviors differ. 
 
 **Project Deliverables**
