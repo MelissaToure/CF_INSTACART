@@ -11,18 +11,16 @@
 +  Sales team request :
   
 > What are the busiest days of the week and hours of the day ?
-
 > Objectif : Schedule ads at times when there are fewer orders.
 
 > Are there particular times of the day when people spend the most money ?
-
 > Objectif : Inform the type of products they advertise at these times.
 
 
 + Marketing and sales request :
   
 > Are there certain types of products that are more popular than others?
->  Objectif : Get to know which departments have the highest frequency of product orders.
+> Objectif : Get to know which departments have the highest frequency of product orders.
 
 > What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 > Are there differences in ordering habits based on a customer’s loyalty status?
