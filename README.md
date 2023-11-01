@@ -13,7 +13,7 @@
 > What are the busiest days of the week and hours of the day ?
 > Are there particular times of the day when people spend the most money ?
 
-- Objectif :  Schedule ads at times when there are fewer orders. Inform the type of products they advertise at these times.-
+_Objectif :  Schedule ads at times when there are fewer orders. Inform the type of products they advertise at these times._
 
 
 + Marketing and sales request :
@@ -26,7 +26,7 @@
 > What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 > What differences can you find in ordering habits of different customer profiles?
 
-- Objectif : Get to know which departments have the highest frequency of product orders. Analyse the different types of customers in their system and how their ordering behaviors differ -  
+_Objectif : Get to know which departments have the highest frequency of product orders. Analyse the different types of customers in their system and how their ordering behaviors differ._ 
 
 **Project Deliverables**
 
