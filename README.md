@@ -2,7 +2,7 @@
 
 **Introduction**
 
-> Instacart is an online grocery store that operates through an app. For this fictional project, Instacart want to uncover more information about their customers'purchase behavior and sales trends. Hence, my core mission was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+> Instacart is an online grocery store that operates through an app. For this fictional project, Instacart wants to uncover more information about their customers' purchase behavior and sales trends. Hence, my core mission was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 > Please note that, even though, Instacart is a real company, this project is purely fictional and based on open-source data from the company website. 
 
